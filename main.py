@@ -15,7 +15,7 @@ with open(file,'r') as f:
 chat = "" 
 
 # Get the Discord bot token from environment variables
-DISCORD_KEY = os.environ['DISCORD_KEY ']
+DISCORD_KEY = os.environ['DISCORD_KEY']
 
 # Get the OpenAI key from environment variables
 OPENAI_KEY = os.environ['OPENAI_KEY']
