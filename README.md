@@ -1,4 +1,4 @@
-### Description of WengBot
+## Description of WengBot
 
 1. **Purpose**: 
    The main function of WengBot is to serve as an AI-powered assistant within Discord. It is designed to interact with users by responding to their messages, providing assistance, and engaging in conversation. WengBot helps create a more interactive and enjoyable experience for Discord users by utilising the DeepSeek API for generating responses.
